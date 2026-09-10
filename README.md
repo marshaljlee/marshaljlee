@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-"jxrouter" doesn't stand for anything. Just a combination of some random letters.
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-09-10 19:02:43.575997+00:00  
+Last Update: 2026-09-10 19:04:01.903887+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
