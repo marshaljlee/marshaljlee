@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-"jxrouter" doesn't stand for anything. Just a combination of some random letters.
+Vercel, go fix your SNI extraction!
 
 
 ---
 
-Last Update: 2026-09-12 01:50:35.938143+00:00  
+Last Update: 2026-09-13 01:41:36.474406+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
