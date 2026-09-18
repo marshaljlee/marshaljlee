@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Sign in to confirm you're not a bot. This helps protect our community. Learn more
+What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
 
 
 ---
 
-Last Update: 2026-09-17 02:03:32.999737+00:00  
+Last Update: 2026-09-18 01:50:55.110613+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
