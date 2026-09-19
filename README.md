@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
+> Lose performance, lose a lot; lose security, lose everything.
 
 
 ---
 
-Last Update: 2026-09-18 01:50:55.110613+00:00  
+Last Update: 2026-09-19 01:56:02.393376+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
