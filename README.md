@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Sign in to confirm you're not a bot. This helps protect our community. Learn more
+Vercel, go fix your SNI extraction!
 
 
 ---
 
-Last Update: 2026-09-20 01:59:02.180533+00:00  
+Last Update: 2026-09-21 01:59:48.085945+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
