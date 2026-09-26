@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
+I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
 
 
 ---
 
-Last Update: 2026-09-25 02:10:10.344880+00:00  
+Last Update: 2026-09-26 02:15:49.184406+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
