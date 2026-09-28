@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
+Vercel, go fix your SNI extraction!
 
 
 ---
 
-Last Update: 2026-09-27 02:09:31.197358+00:00  
+Last Update: 2026-09-28 02:14:16.339262+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
