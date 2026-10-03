@@ -1,11 +1,13 @@
 ## Hi, I'm Joshua
 Message of the day:  
-Vercel, go fix your SNI extraction!
+```js
+0.1 + 0.2 - 0.3 === 5.551115123125783e-17
+```
 
 
 ---
 
-Last Update: 2026-10-02 02:49:21.550991+00:00  
+Last Update: 2026-10-03 02:35:59.667308+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
