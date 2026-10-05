@@ -1,18 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-```http
-BREW coffee HTTP/1.1
-Host: www.example.re
-Content-Type: message/coffeepot
-Content-Length: 5
-
-start
-```
+"jxrouter" doesn't stand for anything. Just a combination of some random letters.
 
 
 ---
 
-Last Update: 2026-10-04 03:07:17.292446+00:00  
+Last Update: 2026-10-05 02:40:35.376875+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
