@@ -1,11 +1,18 @@
 ## Hi, I'm Joshua
 Message of the day:  
-What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
+```http
+BREW coffee HTTP/1.1
+Host: www.example.re
+Content-Type: message/coffeepot
+Content-Length: 5
+
+start
+```
 
 
 ---
 
-Last Update: 2026-10-09 03:21:19.481372+00:00  
+Last Update: 2026-10-10 03:01:24.607381+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
