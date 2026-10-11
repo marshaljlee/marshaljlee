@@ -1,18 +1,13 @@
 ## Hi, I'm Joshua
 Message of the day:  
-```http
-BREW coffee HTTP/1.1
-Host: www.example.re
-Content-Type: message/coffeepot
-Content-Length: 5
-
-start
+```js
+0.1 + 0.2 - 0.3 === 5.551115123125783e-17
 ```
 
 
 ---
 
-Last Update: 2026-10-10 03:01:24.607381+00:00  
+Last Update: 2026-10-11 02:31:28.508550+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
