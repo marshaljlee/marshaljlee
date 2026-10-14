@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Lose performance, lose a lot; lose security, lose everything.
+I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
 
 
 ---
 
-Last Update: 2026-10-13 04:11:04.637422+00:00  
+Last Update: 2026-10-14 02:24:26.139008+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
