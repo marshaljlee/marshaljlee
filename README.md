@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
+> Sign in to confirm you're not a bot. This helps protect our community. Learn more
 
 
 ---
 
-Last Update: 2026-10-16 01:55:28.133279+00:00  
+Last Update: 2026-10-17 01:50:14.236338+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
