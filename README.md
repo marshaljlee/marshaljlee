@@ -1,11 +1,13 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Sign in to confirm you're not a bot. This helps protect our community. Learn more
+```js
+0.1 + 0.2 - 0.3 === 5.551115123125783e-17
+```
 
 
 ---
 
-Last Update: 2026-10-17 01:50:14.236338+00:00  
+Last Update: 2026-10-18 01:48:38.026983+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
