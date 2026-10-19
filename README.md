@@ -1,13 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-```js
-0.1 + 0.2 - 0.3 === 5.551115123125783e-17
-```
+I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
 
 
 ---
 
-Last Update: 2026-10-18 01:48:38.026983+00:00  
+Last Update: 2026-10-19 02:05:44.176279+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
