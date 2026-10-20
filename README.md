@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-10-19 02:05:44.176279+00:00  
+Last Update: 2026-10-20 02:21:57.865909+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
