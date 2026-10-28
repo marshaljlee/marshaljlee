@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Sign in to confirm you're not a bot. This helps protect our community. Learn more
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-10-27 02:38:47.421192+00:00  
+Last Update: 2026-10-28 02:47:42.090435+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
