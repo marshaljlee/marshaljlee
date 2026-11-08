@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-Completely automated!
+> Lose performance, lose a lot; lose security, lose everything.
 
 
 ---
 
-Last Update: 2026-11-07 03:28:39.864951+00:00  
+Last Update: 2026-11-08 02:57:22.800388+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
