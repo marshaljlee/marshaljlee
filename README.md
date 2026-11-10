@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
+"jxrouter" doesn't stand for anything. Just a combination of some random letters.
 
 
 ---
 
-Last Update: 2026-11-09 03:19:13.355351+00:00  
+Last Update: 2026-11-10 04:57:02.044994+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
