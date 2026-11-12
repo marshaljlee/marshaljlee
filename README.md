@@ -1,11 +1,13 @@
 ## Hi, I'm Joshua
 Message of the day:  
-> Lose performance, lose a lot; lose security, lose everything.
+```js
+0.1 + 0.2 - 0.3 === 5.551115123125783e-17
+```
 
 
 ---
 
-Last Update: 2026-11-11 03:27:29.501781+00:00  
+Last Update: 2026-11-12 04:37:25.661118+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
