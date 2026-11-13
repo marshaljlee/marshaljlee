@@ -1,13 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-```js
-0.1 + 0.2 - 0.3 === 5.551115123125783e-17
-```
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-11-12 04:37:25.661118+00:00  
+Last Update: 2026-11-13 03:50:23.804661+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
