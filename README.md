@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-"jxrouter" doesn't stand for anything. Just a combination of some random letters.
+> Lose performance, lose a lot; lose security, lose everything.
 
 
 ---
 
-Last Update: 2026-11-14 03:48:44.796766+00:00  
+Last Update: 2026-11-15 03:28:49.473859+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
