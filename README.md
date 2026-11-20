@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-11-19 04:46:31.634969+00:00  
+Last Update: 2026-11-20 04:37:47.009882+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
