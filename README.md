@@ -1,18 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-```http
-BREW coffee HTTP/1.1
-Host: www.example.re
-Content-Type: message/coffeepot
-Content-Length: 5
-
-start
-```
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-11-24 07:19:15.816437+00:00  
+Last Update: 2026-11-25 05:51:21.072112+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
