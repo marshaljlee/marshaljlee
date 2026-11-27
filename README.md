@@ -1,11 +1,11 @@
 ## Hi, I'm Joshua
 Message of the day:  
-I have once spent **40 attempts in a whole week** reading assembly only to realise I forgot to `return`. 🤯🤯🤯
+"jxrouter" doesn't stand for anything. Just a combination of some random letters.
 
 
 ---
 
-Last Update: 2026-11-26 05:42:27.603671+00:00  
+Last Update: 2026-11-27 05:37:07.450689+00:00  
 [Contact Me](mailto:marshaljleex%40gmail.com)
 
 ## "Pinned repos"
